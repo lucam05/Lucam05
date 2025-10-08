@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b27d883e-6766-4d80-9909-8b4fb789725d" alt="Hello World Banner" width="100%"/>
 </p>
 
 <h2 align="center">👋 Olá! Eu sou o Luca Moreira</h2>
@@ -68,14 +67,3 @@
   </a>
 </p>
 
----
-
-### 🐍 Snake de contribuições
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://lucam05.github.io/lucam05/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://lucam05.github.io/lucam05/github-contribution-grid-snake.svg" />
-  <img alt="snake animation" src="https://lucam05.github.io/lucam05/github-contribution-grid-snake.svg" />
-</picture>
-
----
