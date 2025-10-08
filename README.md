@@ -18,16 +18,32 @@
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+## 🛠️ Tecnologias e Ferramentas
+
+<p align="center">
+  Minhas principais ferramentas e linguagens de trabalho.
+</p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50"/>
-  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="50"/>
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="50"/>
-  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50"/>
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50"/>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60"/>
+  
+  ### 🌐 Linguagens & Frameworks
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=py,js,html,css,c,java,swift,spring,vercel,nodejs,npm" />
+  </p>
+
+  ### ⚙️ Databases & Infraestrutura (Cloud/DevOps)
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,aws,azure,git,github,linux,ubuntu,raspberrypi" />
+  </p>
+
+  ### 💻 Ferramentas & Ambientes de Trabalho
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,figma,stackoverflow,replit,redhat,wordpress,arduino,windows,maven" />
+  </p>
+
 </div>
+
+---
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,java,python,swift,powershell,azure,git,github,vscode,linux,postgresql" />
