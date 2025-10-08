@@ -4,7 +4,7 @@
 <h2 align="center">👋 Olá! Eu sou o Luca Moreira</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=600&lines=Estudante+de+Engenharia+de+Software+na+PUC+Minas;Apaixonado+por+carros,+treinos+e+tecnologia!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=600&lines=Estudante+de+Engenharia+de+Software+na+PUC+Minas;Apaixonado+por+futebol,+treinos+e+tecnologia!" alt="Typing SVG" />
 </p>
 
 ---
