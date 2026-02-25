@@ -51,8 +51,8 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=lucam05&show_icons=true&theme=radical&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucam05&layout=compact&theme=radical"/>
+  <img height="180" src="https://readme-stats-fast.vercel.app/api?username=lucam05&show_icons=true&theme=radical&count_private=true"/>
+  <img height="180" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=lucam05&layout=compact&theme=radical"/>
 </div>
 
 ---
