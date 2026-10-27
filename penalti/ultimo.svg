@@ -40,6 +40,15 @@
 <line x1="90" y1="238" x2="470" y2="238" stroke="#ffffff" stroke-opacity=".18"/>
 <path d="M90,238 V78 H470 V238" fill="none" stroke="#ffffff" stroke-width="7" stroke-linejoin="round"/>
 <line x1="20" y1="238" x2="540" y2="238" stroke="#ffffff" stroke-opacity=".6" stroke-width="2"/>
-<text x="280.0" y="166.0" text-anchor="middle" fill="#ffffff" font-size="22" font-weight="700" font-family="Fira Code, Consolas, monospace">Ninguém bateu ainda</text>
-<text x="280.0" y="272" text-anchor="middle" fill="#c8f7d1" font-size="15" font-family="Fira Code, Consolas, monospace">Escolha um canto abaixo e seja o primeiro</text>
+<g transform="translate(400,183)">
+<line x1="-38" y1="-18" x2="38" y2="-18" stroke="#ffd60a" stroke-width="9" stroke-linecap="round"/>
+<rect x="-14" y="-28" width="28" height="48" rx="8" fill="#ffd60a"/>
+<circle cx="0" cy="-40" r="11" fill="#f1c27d"/>
+<line x1="-8" y1="20" x2="-14" y2="48" stroke="#111" stroke-width="7" stroke-linecap="round"/>
+<line x1="8" y1="20" x2="14" y2="48" stroke="#111" stroke-width="7" stroke-linecap="round"/>
+</g>
+<circle cx="280.0" cy="123" r="13" fill="#ffffff" stroke="#111" stroke-width="2"/>
+<circle cx="280.0" cy="123" r="4.5" fill="#111"/>
+<text x="280.0" y="36" text-anchor="middle" fill="#7CFC00" font-size="24" font-weight="800" font-family="Fira Code, Consolas, monospace">GOOOL!</text>
+<text x="280.0" y="272" text-anchor="middle" fill="#ffffff" font-size="15" font-family="Fira Code, Consolas, monospace">@lucam05 · cobrança #2 · 1 gol x 1 defesa</text>
 </svg>
