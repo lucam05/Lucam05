@@ -64,9 +64,13 @@ O lance aparece aqui no perfil em ~30 segundos.
 <!-- O bloco abaixo é reescrito automaticamente pelo penalti/jogo.py. Não edite à mão. -->
 <!-- PENALTI:START -->
 
-<p align="center"><img src="penalti/ultimo.svg?v=0" width="520" alt="Último lance do pênalti"/></p>
+<p align="center"><img src="penalti/ultimo.svg?v=1" width="520" alt="Último lance do pênalti"/></p>
 
-<p align="center"><b>⚽ 0 gols · 🧤 0 defesas · 🚀 0 pra fora · 🎯 aproveitamento —</b></p>
+<p align="center"><b>⚽ 0 gols · 🧤 1 defesa · 🚀 0 pra fora · 🎯 aproveitamento 0%</b></p>
+
+| # | Batedor | Chute | Goleiro | Resultado | Data |
+|:-:|---|---|---|---|---|
+| 1 | [@lucam05](https://github.com/lucam05) | ↗️ Direita | ↗️ Direita | 🧤 Defesa | 27/10/2026 |
 
 <!-- PENALTI:END -->
 
