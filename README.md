@@ -106,8 +106,9 @@ O lance aparece aqui no perfil em ~30 segundos.
 ## 📈 Estatísticas da temporada
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=lucam05&show_icons=true&count_private=true&hide_border=true&bg_color=0b3d2e&title_color=ffffff&icon_color=7CFC00&text_color=e6e6e6" alt="Estatísticas"/>
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lucam05&layout=compact&hide_border=true&bg_color=0b3d2e&title_color=ffffff&text_color=e6e6e6" alt="Linguagens mais usadas"/>
+  <!-- Gerados todo dia pelo workflow stats.yml (sem depender de serviço externo) -->
+  <img height="180" src="stats/stats.svg" alt="Estatísticas"/>
+  <img height="180" src="stats/linguagens.svg" alt="Linguagens mais usadas"/>
 </div>
 
 <!-- Cobrinha comendo as contribuições (precisa do workflow snake.yml rodar uma vez) -->

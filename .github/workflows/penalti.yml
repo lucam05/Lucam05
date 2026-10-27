@@ -19,7 +19,7 @@ permissions:
 
 # Uma cobrança por vez: evita duas execuções sobrescreverem o placar.
 concurrency:
-  group: penalti
+  group: readme-bot
   cancel-in-progress: false
 
 jobs:
