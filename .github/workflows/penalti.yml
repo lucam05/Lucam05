@@ -1,0 +1,62 @@
+# ⚽ Pênalti interativo do README
+# Disparado quando alguém abre uma issue com título "penalti|esquerda|meio|direita"
+# (os links do README já abrem a issue com o título certo).
+#
+# Segurança: o título e o autor da issue são entrada de usuários desconhecidos.
+# Por isso eles entram SÓ por variáveis de ambiente (env:) e são validados no
+# Python. Nunca use ${{ github.event.issue.title }} direto dentro de um "run:"
+# — isso abre brecha para injeção de comandos no runner.
+
+name: Pênalti
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write   # commitar o placar no README
+  issues: write     # comentar o resultado e fechar a issue
+
+# Uma cobrança por vez: evita duas execuções sobrescreverem o placar.
+concurrency:
+  group: penalti
+  cancel-in-progress: false
+
+jobs:
+  cobrar:
+    if: startsWith(github.event.issue.title, 'penalti|')
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Bater o pênalti
+        id: jogo
+        env:
+          TITULO: ${{ github.event.issue.title }}
+          AUTOR: ${{ github.event.issue.user.login }}
+        run: python3 penalti/jogo.py
+
+      - name: Salvar placar
+        if: steps.jogo.outputs.resultado != 'invalido'
+        env:
+          AUTOR: ${{ github.event.issue.user.login }}
+          RESULTADO: ${{ steps.jogo.outputs.resultado }}
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md penalti/
+          git commit -m "⚽ pênalti de @${AUTOR}: ${RESULTADO}"
+          git pull --rebase
+          git push
+
+      - name: Responder e fechar a issue
+        uses: actions/github-script@v7
+        env:
+          MENSAGEM: ${{ steps.jogo.outputs.mensagem }}
+        with:
+          script: |
+            const { owner, repo } = context.repo;
+            const issue_number = context.issue.number;
+            await github.rest.issues.createComment({ owner, repo, issue_number, body: process.env.MENSAGEM });
+            await github.rest.issues.update({ owner, repo, issue_number, state: 'closed', state_reason: 'completed' });
