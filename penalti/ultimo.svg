@@ -47,8 +47,8 @@
 <line x1="-8" y1="20" x2="-14" y2="48" stroke="#111" stroke-width="7" stroke-linecap="round"/>
 <line x1="8" y1="20" x2="14" y2="48" stroke="#111" stroke-width="7" stroke-linecap="round"/>
 </g>
-<circle cx="440" cy="165" r="13" fill="#ffffff" stroke="#111" stroke-width="2"/>
-<circle cx="440" cy="165" r="4.5" fill="#111"/>
-<text x="280.0" y="36" text-anchor="middle" fill="#ffd60a" font-size="24" font-weight="800" font-family="Fira Code, Consolas, monospace">DEFENDEU!</text>
-<text x="280.0" y="272" text-anchor="middle" fill="#ffffff" font-size="15" font-family="Fira Code, Consolas, monospace">@lucam05 · cobrança #1 · 0 gols x 1 defesa</text>
+<circle cx="280.0" cy="123" r="13" fill="#ffffff" stroke="#111" stroke-width="2"/>
+<circle cx="280.0" cy="123" r="4.5" fill="#111"/>
+<text x="280.0" y="36" text-anchor="middle" fill="#7CFC00" font-size="24" font-weight="800" font-family="Fira Code, Consolas, monospace">GOOOL!</text>
+<text x="280.0" y="272" text-anchor="middle" fill="#ffffff" font-size="15" font-family="Fira Code, Consolas, monospace">@lucam05 · cobrança #2 · 1 gol x 1 defesa</text>
 </svg>

@@ -1,9 +1,17 @@
 {
-  "cobrancas": 1,
-  "gols": 0,
+  "cobrancas": 2,
+  "gols": 1,
   "defesas": 1,
   "fora": 0,
   "ultimos": [
+    {
+      "n": 2,
+      "autor": "lucam05",
+      "canto": "meio",
+      "goleiro": "direita",
+      "resultado": "gol",
+      "data": "27/10/2026"
+    },
     {
       "n": 1,
       "autor": "lucam05",
@@ -13,5 +21,7 @@
       "data": "27/10/2026"
     }
   ],
-  "artilheiros": {}
+  "artilheiros": {
+    "lucam05": 1
+  }
 }
