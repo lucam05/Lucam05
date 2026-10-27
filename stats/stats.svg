@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="350" height="225" viewBox="0 0 350 225" role="img" aria-label="Temporada de Luca">
+<defs><linearGradient id="f" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b3d2e"/><stop offset="1" stop-color="#1f8a4c"/></linearGradient></defs>
+<rect width="350" height="225" rx="12" fill="url(#f)"/>
+<text x="24" y="38" fill="#ffffff" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="18" font-weight="700">Temporada de Luca</text>
+<circle cx="30" cy="67" r="4" fill="#7CFC00"/>
+<text x="44" y="72" fill="#e6e6e6" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="14">Contribuições (último ano)</text>
+<text x="326" y="72" fill="#ffffff" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" text-anchor="end">146</text>
+<circle cx="30" cy="92" r="4" fill="#7CFC00"/>
+<text x="44" y="97" fill="#e6e6e6" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="14">Commits (último ano)</text>
+<text x="326" y="97" fill="#ffffff" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" text-anchor="end">101</text>
+<circle cx="30" cy="117" r="4" fill="#7CFC00"/>
+<text x="44" y="122" fill="#e6e6e6" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="14">Pull requests</text>
+<text x="326" y="122" fill="#ffffff" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" text-anchor="end">2</text>
+<circle cx="30" cy="142" r="4" fill="#7CFC00"/>
+<text x="44" y="147" fill="#e6e6e6" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="14">Issues</text>
+<text x="326" y="147" fill="#ffffff" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" text-anchor="end">33</text>
+<circle cx="30" cy="167" r="4" fill="#7CFC00"/>
+<text x="44" y="172" fill="#e6e6e6" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="14">Repositórios</text>
+<text x="326" y="172" fill="#ffffff" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" text-anchor="end">12</text>
+<circle cx="30" cy="192" r="4" fill="#7CFC00"/>
+<text x="44" y="197" fill="#e6e6e6" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="14">Estrelas recebidas</text>
+<text x="326" y="197" fill="#ffffff" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" text-anchor="end">0</text>
+</svg>

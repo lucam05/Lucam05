@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="225" viewBox="0 0 300 225" role="img" aria-label="Linguagens mais usadas">
+<defs><linearGradient id="f" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b3d2e"/><stop offset="1" stop-color="#1f8a4c"/></linearGradient></defs>
+<rect width="300" height="225" rx="12" fill="url(#f)"/>
+<text x="24" y="38" fill="#ffffff" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="18" font-weight="700">Linguagens mais usadas</text>
+<clipPath id="b"><rect x="24" y="56" width="252" height="10" rx="5"/></clipPath>
+<g clip-path="url(#b)">
+<rect x="24.00" y="56" width="187.62" height="10" fill="#3178c6"/>
+<rect x="211.62" y="56" width="44.61" height="10" fill="#b07219"/>
+<rect x="256.23" y="56" width="12.30" height="10" fill="#3572A5"/>
+<rect x="268.53" y="56" width="6.68" height="10" fill="#663399"/>
+<rect x="275.21" y="56" width="0.60" height="10" fill="#e34c26"/>
+<rect x="275.81" y="56" width="0.19" height="10" fill="#f1e05a"/>
+</g>
+<circle cx="29" cy="92" r="5" fill="#3178c6"/>
+<text x="40" y="96" fill="#e6e6e6" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="13">TypeScript <tspan fill="#ffffff" font-weight="700">74.5%</tspan></text>
+<circle cx="159" cy="92" r="5" fill="#b07219"/>
+<text x="170" y="96" fill="#e6e6e6" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="13">Java <tspan fill="#ffffff" font-weight="700">17.7%</tspan></text>
+<circle cx="29" cy="120" r="5" fill="#3572A5"/>
+<text x="40" y="124" fill="#e6e6e6" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="13">Python <tspan fill="#ffffff" font-weight="700">4.9%</tspan></text>
+<circle cx="159" cy="120" r="5" fill="#663399"/>
+<text x="170" y="124" fill="#e6e6e6" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="13">CSS <tspan fill="#ffffff" font-weight="700">2.6%</tspan></text>
+<circle cx="29" cy="148" r="5" fill="#e34c26"/>
+<text x="40" y="152" fill="#e6e6e6" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="13">HTML <tspan fill="#ffffff" font-weight="700">0.2%</tspan></text>
+<circle cx="159" cy="148" r="5" fill="#f1e05a"/>
+<text x="170" y="152" fill="#e6e6e6" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="13">JavaScript <tspan fill="#ffffff" font-weight="700">0.1%</tspan></text>
+</svg>
