@@ -4,7 +4,7 @@
 <text x="24" y="38" fill="#ffffff" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="18" font-weight="700">Temporada de Luca</text>
 <circle cx="30" cy="67" r="4" fill="#7CFC00"/>
 <text x="44" y="72" fill="#e6e6e6" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="14">Contribuições (último ano)</text>
-<text x="326" y="72" fill="#ffffff" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" text-anchor="end">152</text>
+<text x="326" y="72" fill="#ffffff" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" text-anchor="end">153</text>
 <circle cx="30" cy="92" r="4" fill="#7CFC00"/>
 <text x="44" y="97" fill="#e6e6e6" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="14">Commits (último ano)</text>
 <text x="326" y="97" fill="#ffffff" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" text-anchor="end">107</text>
@@ -13,7 +13,7 @@
 <text x="326" y="122" fill="#ffffff" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" text-anchor="end">2</text>
 <circle cx="30" cy="142" r="4" fill="#7CFC00"/>
 <text x="44" y="147" fill="#e6e6e6" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="14">Issues</text>
-<text x="326" y="147" fill="#ffffff" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" text-anchor="end">33</text>
+<text x="326" y="147" fill="#ffffff" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" text-anchor="end">34</text>
 <circle cx="30" cy="167" r="4" fill="#7CFC00"/>
 <text x="44" y="172" fill="#e6e6e6" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="14">Repositórios</text>
 <text x="326" y="172" fill="#ffffff" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" text-anchor="end">12</text>
